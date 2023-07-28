@@ -24,7 +24,7 @@ export default function Input({ onSendMessage }) {
 	};
 
 	return (
-		<div className="Input">
+		<div className="input">
 			<form onSubmit={handleSubmit}>
 				<input
 					onChange={handleChange}

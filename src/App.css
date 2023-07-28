@@ -47,17 +47,17 @@ App {
 	margin-top: 10px;
 }
 
-.text-message>.currentUser {
-	flex-direction: row-reverse;
-	text-align: right;
+
+.text-message .current-user {
+	flex-direction: row-reverse; 
 }
 
 .message-content {
 	display: inline-block;
 }
 
-.currentUser>.message-content {
-	align-items: flex-end;
+.current-user {
+	justify-content: flex-end;
 }
 
 .text-message>.avatar {
@@ -85,7 +85,7 @@ App {
 	display: inline-block;
 }
 
-.currentUser>.message-content .text {
+.current-user>.message-content .text {
 	background-color: #f47c6d;
 }
 
