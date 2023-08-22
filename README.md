@@ -4,7 +4,7 @@ https://github.com/herothezero90/react-chat-app/
 
 Preview:
 
-https://any-chat-react-app.netlify.app/
+https://any-chat-karla-lenard.netlify.app/
 
 
 
